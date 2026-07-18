@@ -11,6 +11,3 @@ elif float(entrada) <= 37.5:
 elif float(entrada) <= 38.2:
     print("Fever")
 temperatura = float(entrada)  # Converte a entrada para decimal
-
-# TODO: Implemente a estrutura condicional para classificar a temperatura
-# Dica: Use if, elif e else para verificar as faixas e imprimir "Hypothermia", "Normal" ou "Fever"
